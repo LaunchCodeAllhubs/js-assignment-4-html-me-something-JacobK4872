@@ -8,8 +8,7 @@ body {
 #mainHeading {
     border: 1px solid black;
     background-color: rgb(97, 35, 196);
-    padding-left: 450px;
-    padding-right: 450px;
+    text-align: center;
     font-size: 120px;
     color: red;
 }
